@@ -1,0 +1,19 @@
+
+
+body,
+html {
+  height: 100%;
+  font-size: 28px;
+  padding: 30px;
+}
+
+.container div {
+  margin-bottom: 24px;
+}
+
+span {
+  font-size: 42px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
