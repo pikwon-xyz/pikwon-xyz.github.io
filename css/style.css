@@ -11,6 +11,11 @@ html {
   margin-bottom: 24px;
 }
 
+.name {
+  font-size: 42px;
+  font-weight: 900;
+}
+
 span {
   font-size: 42px;
 }
