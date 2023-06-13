@@ -16,8 +16,28 @@ html {
   font-weight: 900;
 }
 
+.terms {
+  font-size: 14px;
+}
+
+.section {
+  font-size: 18px;
+  font-weight: 900;
+  margin-top: 12px;
+  margin-bottom: 12px !important;
+}
+
 span {
   font-size: 42px;
+}
+
+footer {
+  margin-top: 48px;
+  font-size: 14px;
+}
+
+footer a {
+  margin-right: 10px;
 }
 
 
