@@ -1,0 +1,45 @@
+
+
+body,
+html {
+  height: 100%;
+  font-size: 28px;
+  padding: 30px;
+  font-family: 'Helvetica Neue';
+}
+
+.container div {
+  margin-bottom: 24px;
+}
+
+.name {
+  font-size: 42px;
+  font-weight: 900;
+}
+
+.terms {
+  font-size: 14px;
+}
+
+.section {
+  font-size: 18px;
+  font-weight: 900;
+  margin-top: 12px;
+  margin-bottom: 12px !important;
+}
+
+span {
+  font-size: 42px;
+}
+
+footer {
+  margin-top: 48px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+footer a {
+  margin-right: 10px;
+  color: "black";
+}

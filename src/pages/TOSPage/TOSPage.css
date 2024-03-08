@@ -1,5 +1,4 @@
 
-
 body,
 html {
   height: 100%;
@@ -35,11 +34,11 @@ span {
 footer {
   margin-top: 48px;
   font-size: 14px;
+  display: flex;
+  align-items: center;
 }
 
 footer a {
   margin-right: 10px;
+  color: "black";
 }
-
-
-/*# sourceMappingURL=style.css.map */

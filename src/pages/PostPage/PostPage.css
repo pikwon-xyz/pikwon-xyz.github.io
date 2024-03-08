@@ -1,0 +1,33 @@
+  .post-container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: solid black 1px;
+  }
+
+  .half {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+  }
+
+  .black {
+    background-color: black;
+    color: white;
+  }
+
+  .white {
+    background-color: white;
+    color: black;
+  }
+
+  .text {
+    max-width: 80%;
+    font-size: 32px; /* Adjust the font size as needed */
+    padding: 20px;
+    word-wrap: break-word;
+  }
