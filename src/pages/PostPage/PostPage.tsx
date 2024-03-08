@@ -9,7 +9,8 @@ interface Post {
 }
 
 const PostPage: React.FC = () => {
-  const baseUrl = "http://localhost:3000";
+  // const baseUrl = "http://localhost:3000";
+  const baseUrl = "https://pikwon-nextjs.vercel.app"
   const { id } = useParams<{ id: string }>();
   const [post, setPost] = useState<Post | null>(null);
   const imgRef = useRef<HTMLDivElement>(null);

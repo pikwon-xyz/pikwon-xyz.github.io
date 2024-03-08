@@ -30,8 +30,8 @@ const HomePage: React.FC = () => {
             />
           </svg>
         </a>
-        <a href="./tos">terms</a>{" "}
-        <a href="./policy">privacy policy</a>
+        <a href="./#/tos">terms</a>{" "}
+        <a href="./#/policy">privacy policy</a>
       </footer>
     </>
   );
