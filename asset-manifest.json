@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pikwon-xyz.github.io/static/css/main.65225a31.css",
+    "main.js": "/pikwon-xyz.github.io/static/js/main.c481b65a.js",
+    "static/js/453.45999725.chunk.js": "/pikwon-xyz.github.io/static/js/453.45999725.chunk.js",
+    "index.html": "/pikwon-xyz.github.io/index.html",
+    "main.65225a31.css.map": "/pikwon-xyz.github.io/static/css/main.65225a31.css.map",
+    "main.c481b65a.js.map": "/pikwon-xyz.github.io/static/js/main.c481b65a.js.map",
+    "453.45999725.chunk.js.map": "/pikwon-xyz.github.io/static/js/453.45999725.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65225a31.css",
+    "static/js/main.c481b65a.js"
+  ]
+}
